@@ -1,3 +1,4 @@
 First line
 Second line (from remote repo)
 Third line (again from remote repo)
+Fourth line (in a separate branch)
